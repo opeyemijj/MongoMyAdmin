@@ -1,4 +1,4 @@
-# veutificate
+# mongomyadmin
 
 ## Project setup
 ```
